@@ -1,0 +1,22 @@
+body {
+       width: 100%;
+	   background-color: gray;
+}
+#header{
+       background-color: #BDBDBD;
+}
+#home {
+       display: inline-block;
+}
+#portfolio
+          {
+	   display: inline-block;
+}
+#resume{
+       display: inline-block;
+}
+#about {
+        display: inline-block;
+}
+
+	   
